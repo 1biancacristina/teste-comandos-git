@@ -1,0 +1,7 @@
+Criado um repositório local;
+Acessado o CMD e inicializado no GIT um repositório existente.
+Comando: 
+- CD (local do arquivo)
+- git init
+
+Nesse momento ainda não efetuei o rastreio, mas criei um subdiretório .git para iniciar o meu trabalho através desse esqueleto;
