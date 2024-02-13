@@ -1,0 +1,5 @@
+teste2
+
+teste3 - já add
+
+teste 5 - para verificar o git diff
